@@ -1,0 +1,8 @@
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter03\21110332_KienDucTrong\Baitap3Tuan4Chuong3\Baitap3Tuan4Chuong3\bin\Debug\Baitap3Tuan4Chuong3.exe.config
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter03\21110332_KienDucTrong\Baitap3Tuan4Chuong3\Baitap3Tuan4Chuong3\bin\Debug\Baitap3Tuan4Chuong3.exe
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter03\21110332_KienDucTrong\Baitap3Tuan4Chuong3\Baitap3Tuan4Chuong3\bin\Debug\Baitap3Tuan4Chuong3.pdb
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter03\21110332_KienDucTrong\Baitap3Tuan4Chuong3\Baitap3Tuan4Chuong3\obj\Debug\Baitap3Tuan4Chuong3.csproj.AssemblyReference.cache
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter03\21110332_KienDucTrong\Baitap3Tuan4Chuong3\Baitap3Tuan4Chuong3\obj\Debug\Baitap3Tuan4Chuong3.csproj.SuggestedBindingRedirects.cache
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter03\21110332_KienDucTrong\Baitap3Tuan4Chuong3\Baitap3Tuan4Chuong3\obj\Debug\Baitap3Tuan4Chuong3.csproj.CoreCompileInputs.cache
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter03\21110332_KienDucTrong\Baitap3Tuan4Chuong3\Baitap3Tuan4Chuong3\obj\Debug\Baitap3Tuan4Chuong3.exe
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter03\21110332_KienDucTrong\Baitap3Tuan4Chuong3\Baitap3Tuan4Chuong3\obj\Debug\Baitap3Tuan4Chuong3.pdb

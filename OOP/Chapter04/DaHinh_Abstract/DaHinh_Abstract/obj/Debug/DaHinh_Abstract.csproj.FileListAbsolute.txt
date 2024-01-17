@@ -1,0 +1,8 @@
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter04\DaHinh_Abstract\DaHinh_Abstract\bin\Debug\DaHinh_Abstract.exe.config
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter04\DaHinh_Abstract\DaHinh_Abstract\bin\Debug\DaHinh_Abstract.exe
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter04\DaHinh_Abstract\DaHinh_Abstract\bin\Debug\DaHinh_Abstract.pdb
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter04\DaHinh_Abstract\DaHinh_Abstract\obj\Debug\DaHinh_Abstract.csproj.AssemblyReference.cache
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter04\DaHinh_Abstract\DaHinh_Abstract\obj\Debug\DaHinh_Abstract.csproj.SuggestedBindingRedirects.cache
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter04\DaHinh_Abstract\DaHinh_Abstract\obj\Debug\DaHinh_Abstract.csproj.CoreCompileInputs.cache
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter04\DaHinh_Abstract\DaHinh_Abstract\obj\Debug\DaHinh_Abstract.exe
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter04\DaHinh_Abstract\DaHinh_Abstract\obj\Debug\DaHinh_Abstract.pdb

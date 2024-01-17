@@ -1,0 +1,13 @@
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Windows_W6_B2\Windows_W6_B2\bin\Debug\Windows_W6_B2.exe.config
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Windows_W6_B2\Windows_W6_B2\bin\Debug\Windows_W6_B2.exe
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Windows_W6_B2\Windows_W6_B2\bin\Debug\Windows_W6_B2.pdb
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Windows_W6_B2\Windows_W6_B2\bin\Debug\EntityFramework.dll
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Windows_W6_B2\Windows_W6_B2\bin\Debug\EntityFramework.SqlServer.dll
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Windows_W6_B2\Windows_W6_B2\bin\Debug\EntityFramework.xml
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Windows_W6_B2\Windows_W6_B2\bin\Debug\EntityFramework.SqlServer.xml
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Windows_W6_B2\Windows_W6_B2\obj\Debug\Windows_W6_B2.csproj.AssemblyReference.cache
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Windows_W6_B2\Windows_W6_B2\obj\Debug\Windows_W6_B2.csproj.SuggestedBindingRedirects.cache
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Windows_W6_B2\Windows_W6_B2\obj\Debug\Windows_W6_B2.csproj.CoreCompileInputs.cache
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Windows_W6_B2\Windows_W6_B2\obj\Debug\Windows_W6_B2.csproj.CopyComplete
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Windows_W6_B2\Windows_W6_B2\obj\Debug\Windows_W6_B2.exe
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\Windows_W6_B2\Windows_W6_B2\obj\Debug\Windows_W6_B2.pdb

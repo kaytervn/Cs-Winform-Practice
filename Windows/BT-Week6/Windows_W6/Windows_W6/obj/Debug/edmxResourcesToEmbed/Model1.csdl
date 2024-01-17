@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="AccountModelContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Accounts" EntityType="Model1.Account" />
+    <EntitySet Name="Departments" EntityType="Model1.Department" />
+    <AssociationSet Name="DepartmnetAccount" Association="Model1.DepartmnetAccount">
+      <End Role="Departmnet" EntitySet="Departments" />
+      <End Role="Account" EntitySet="Accounts" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" />
+    <NavigationProperty Name="Departmnet" Relationship="Model1.DepartmnetAccount" FromRole="Account" ToRole="Departmnet" />
+    <Property Name="DepartmentID" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Department">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Accounts" Relationship="Model1.DepartmnetAccount" FromRole="Departmnet" ToRole="Account" />
+    <Property Name="name" Type="String" Nullable="false" />
+  </EntityType>
+  <Association Name="DepartmnetAccount">
+    <End Type="Model1.Department" Role="Departmnet" Multiplicity="1" />
+    <End Type="Model1.Account" Role="Account" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Departmnet">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Account">
+        <PropertyRef Name="DepartmentID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

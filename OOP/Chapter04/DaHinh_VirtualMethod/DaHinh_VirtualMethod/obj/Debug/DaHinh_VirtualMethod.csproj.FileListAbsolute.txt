@@ -1,0 +1,8 @@
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter04\21110332_KienDucTrong\DaHinh_VirtualMethod\DaHinh_VirtualMethod\bin\Debug\DaHinh_VirtualMethod.exe.config
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter04\21110332_KienDucTrong\DaHinh_VirtualMethod\DaHinh_VirtualMethod\bin\Debug\DaHinh_VirtualMethod.exe
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter04\21110332_KienDucTrong\DaHinh_VirtualMethod\DaHinh_VirtualMethod\bin\Debug\DaHinh_VirtualMethod.pdb
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter04\21110332_KienDucTrong\DaHinh_VirtualMethod\DaHinh_VirtualMethod\obj\Debug\DaHinh_VirtualMethod.csproj.AssemblyReference.cache
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter04\21110332_KienDucTrong\DaHinh_VirtualMethod\DaHinh_VirtualMethod\obj\Debug\DaHinh_VirtualMethod.csproj.SuggestedBindingRedirects.cache
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter04\21110332_KienDucTrong\DaHinh_VirtualMethod\DaHinh_VirtualMethod\obj\Debug\DaHinh_VirtualMethod.csproj.CoreCompileInputs.cache
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter04\21110332_KienDucTrong\DaHinh_VirtualMethod\DaHinh_VirtualMethod\obj\Debug\DaHinh_VirtualMethod.exe
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter04\21110332_KienDucTrong\DaHinh_VirtualMethod\DaHinh_VirtualMethod\obj\Debug\DaHinh_VirtualMethod.pdb

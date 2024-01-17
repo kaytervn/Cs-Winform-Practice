@@ -1,0 +1,13 @@
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QLHocSinh_GiaoVien\QLHocSinh_GiaoVien\bin\Debug\QLHocSinh_GiaoVien.exe.config
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QLHocSinh_GiaoVien\QLHocSinh_GiaoVien\bin\Debug\QLHocSinh_GiaoVien.exe
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QLHocSinh_GiaoVien\QLHocSinh_GiaoVien\bin\Debug\QLHocSinh_GiaoVien.pdb
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QLHocSinh_GiaoVien\QLHocSinh_GiaoVien\obj\Debug\QLHocSinh_GiaoVien.csproj.AssemblyReference.cache
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QLHocSinh_GiaoVien\QLHocSinh_GiaoVien\obj\Debug\QLHocSinh_GiaoVien.csproj.SuggestedBindingRedirects.cache
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QLHocSinh_GiaoVien\QLHocSinh_GiaoVien\obj\Debug\QLHocSinh_GiaoVien.MainForm.resources
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QLHocSinh_GiaoVien\QLHocSinh_GiaoVien\obj\Debug\QLHocSinh_GiaoVien.QLHocSinhForm.resources
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QLHocSinh_GiaoVien\QLHocSinh_GiaoVien\obj\Debug\QLHocSinh_GiaoVien.Properties.Resources.resources
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QLHocSinh_GiaoVien\QLHocSinh_GiaoVien\obj\Debug\QLHocSinh_GiaoVien.csproj.GenerateResource.cache
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QLHocSinh_GiaoVien\QLHocSinh_GiaoVien\obj\Debug\QLHocSinh_GiaoVien.csproj.CoreCompileInputs.cache
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QLHocSinh_GiaoVien\QLHocSinh_GiaoVien\obj\Debug\QLHocSinh_GiaoVien.exe
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QLHocSinh_GiaoVien\QLHocSinh_GiaoVien\obj\Debug\QLHocSinh_GiaoVien.pdb
+D:\OTHER_DOCUMENTS\STUDYING_STUFF\Winform\QLHocSinh_GiaoVien\QLHocSinh_GiaoVien\obj\Debug\QLHocSinh_GiaoVien.QLGiaoVienForm.resources

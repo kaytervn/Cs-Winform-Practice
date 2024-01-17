@@ -1,0 +1,16 @@
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter05\Chuong05_Bai01\Chuong05_Bai01\obj\Debug\Chuong05_Bai01.csproj.AssemblyReference.cache
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter05\Chuong05_Bai01\Chuong05_Bai01\obj\Debug\Chuong05_Bai01.csproj.SuggestedBindingRedirects.cache
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter05\Chuong05_Bai01\Chuong05_Bai01\obj\Debug\Chuong05_Bai01.csproj.CoreCompileInputs.cache
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter05\Chuong05_Bai01\Chuong05_Bai01\bin\Debug\Chuong05_Bai01.exe.config
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter05\Chuong05_Bai01\Chuong05_Bai01\bin\Debug\Chuong05_Bai01.exe
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter05\Chuong05_Bai01\Chuong05_Bai01\bin\Debug\Chuong05_Bai01.pdb
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter05\Chuong05_Bai01\Chuong05_Bai01\obj\Debug\Chuong05_Bai01.exe
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter05\Chuong05_Bai01\Chuong05_Bai01\obj\Debug\Chuong05_Bai01.pdb
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LTHDT-OOP_thayVinh\BaitapC#\Chapter05\Chuong05_Bai01\Chuong05_Bai01\bin\Debug\Chuong05_Bai01.exe.config
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LTHDT-OOP_thayVinh\BaitapC#\Chapter05\Chuong05_Bai01\Chuong05_Bai01\bin\Debug\Chuong05_Bai01.exe
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LTHDT-OOP_thayVinh\BaitapC#\Chapter05\Chuong05_Bai01\Chuong05_Bai01\bin\Debug\Chuong05_Bai01.pdb
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LTHDT-OOP_thayVinh\BaitapC#\Chapter05\Chuong05_Bai01\Chuong05_Bai01\obj\Debug\Chuong05_Bai01.csproj.AssemblyReference.cache
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LTHDT-OOP_thayVinh\BaitapC#\Chapter05\Chuong05_Bai01\Chuong05_Bai01\obj\Debug\Chuong05_Bai01.csproj.SuggestedBindingRedirects.cache
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LTHDT-OOP_thayVinh\BaitapC#\Chapter05\Chuong05_Bai01\Chuong05_Bai01\obj\Debug\Chuong05_Bai01.csproj.CoreCompileInputs.cache
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LTHDT-OOP_thayVinh\BaitapC#\Chapter05\Chuong05_Bai01\Chuong05_Bai01\obj\Debug\Chuong05_Bai01.exe
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LTHDT-OOP_thayVinh\BaitapC#\Chapter05\Chuong05_Bai01\Chuong05_Bai01\obj\Debug\Chuong05_Bai01.pdb

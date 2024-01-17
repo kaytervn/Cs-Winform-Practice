@@ -1,0 +1,7 @@
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LapTrinhHuongDoiTuong_thayVinh\Chapter 1-2\21110332_KienDucTrong_Week2\Baitap14\bin\Debug\Baitap14.exe.config
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LapTrinhHuongDoiTuong_thayVinh\Chapter 1-2\21110332_KienDucTrong_Week2\Baitap14\bin\Debug\Baitap14.exe
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LapTrinhHuongDoiTuong_thayVinh\Chapter 1-2\21110332_KienDucTrong_Week2\Baitap14\bin\Debug\Baitap14.pdb
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LapTrinhHuongDoiTuong_thayVinh\Chapter 1-2\21110332_KienDucTrong_Week2\Baitap14\obj\Debug\Baitap14.csproj.AssemblyReference.cache
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LapTrinhHuongDoiTuong_thayVinh\Chapter 1-2\21110332_KienDucTrong_Week2\Baitap14\obj\Debug\Baitap14.csproj.CoreCompileInputs.cache
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LapTrinhHuongDoiTuong_thayVinh\Chapter 1-2\21110332_KienDucTrong_Week2\Baitap14\obj\Debug\Baitap14.exe
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LapTrinhHuongDoiTuong_thayVinh\Chapter 1-2\21110332_KienDucTrong_Week2\Baitap14\obj\Debug\Baitap14.pdb

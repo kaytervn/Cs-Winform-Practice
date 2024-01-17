@@ -1,0 +1,7 @@
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LapTrinhTrenWindows_coAn\Homeworks\Tuan1_KienDucTrong21110332\Tuan1_KienDucTrong21110332\bin\Debug\Tuan1_KienDucTrong21110332.exe.config
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LapTrinhTrenWindows_coAn\Homeworks\Tuan1_KienDucTrong21110332\Tuan1_KienDucTrong21110332\bin\Debug\Tuan1_KienDucTrong21110332.exe
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LapTrinhTrenWindows_coAn\Homeworks\Tuan1_KienDucTrong21110332\Tuan1_KienDucTrong21110332\bin\Debug\Tuan1_KienDucTrong21110332.pdb
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LapTrinhTrenWindows_coAn\Homeworks\Tuan1_KienDucTrong21110332\Tuan1_KienDucTrong21110332\obj\Debug\Tuan1_KienDucTrong21110332.csproj.AssemblyReference.cache
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LapTrinhTrenWindows_coAn\Homeworks\Tuan1_KienDucTrong21110332\Tuan1_KienDucTrong21110332\obj\Debug\Tuan1_KienDucTrong21110332.csproj.CoreCompileInputs.cache
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LapTrinhTrenWindows_coAn\Homeworks\Tuan1_KienDucTrong21110332\Tuan1_KienDucTrong21110332\obj\Debug\Tuan1_KienDucTrong21110332.exe
+I:\My Drive\PCstudy2 [max15GB]\IT_AllSubjects\LapTrinhTrenWindows_coAn\Homeworks\Tuan1_KienDucTrong21110332\Tuan1_KienDucTrong21110332\obj\Debug\Tuan1_KienDucTrong21110332.pdb

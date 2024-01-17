@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QuanLyTruongHocModelStoreContainer" CdmEntityContainer="QuanLyTruongHocEntities">
+    <EntitySetMapping Name="GiaoViens">
+      <EntityTypeMapping TypeName="QuanLyTruongHocModel.GiaoVien">
+        <MappingFragment StoreEntitySet="GiaoVien">
+          <ScalarProperty Name="MaGV" ColumnName="MaGV" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+          <ScalarProperty Name="QueQuan" ColumnName="QueQuan" />
+          <ScalarProperty Name="NgayThangNamSinh" ColumnName="NgayThangNamSinh" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="SoDT" ColumnName="SoDT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HocSinhs">
+      <EntityTypeMapping TypeName="QuanLyTruongHocModel.HocSinh">
+        <MappingFragment StoreEntitySet="HocSinh">
+          <ScalarProperty Name="MaHS" ColumnName="MaHS" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+          <ScalarProperty Name="QueQuan" ColumnName="QueQuan" />
+          <ScalarProperty Name="NgayThangNamSinh" ColumnName="NgayThangNamSinh" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="SoDT" ColumnName="SoDT" />
+          <ScalarProperty Name="Diem" ColumnName="Diem" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Rooms">
+      <EntityTypeMapping TypeName="QuanLyTruongHocModel.Room">
+        <MappingFragment StoreEntitySet="Room">
+          <ScalarProperty Name="capacity" ColumnName="capacity" />
+          <ScalarProperty Name="address" ColumnName="address" />
+          <ScalarProperty Name="rno" ColumnName="rno" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,8 @@
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter03\LopTinh\21110332_KienDucTrong_Week05_StaticCLass\Baitap1Tuan5Chuong3\Baitap1Tuan5Chuong3\bin\Debug\Baitap1Tuan5Chuong3.exe.config
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter03\LopTinh\21110332_KienDucTrong_Week05_StaticCLass\Baitap1Tuan5Chuong3\Baitap1Tuan5Chuong3\bin\Debug\Baitap1Tuan5Chuong3.exe
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter03\LopTinh\21110332_KienDucTrong_Week05_StaticCLass\Baitap1Tuan5Chuong3\Baitap1Tuan5Chuong3\bin\Debug\Baitap1Tuan5Chuong3.pdb
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter03\LopTinh\21110332_KienDucTrong_Week05_StaticCLass\Baitap1Tuan5Chuong3\Baitap1Tuan5Chuong3\obj\Debug\Baitap1Tuan5Chuong3.csproj.AssemblyReference.cache
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter03\LopTinh\21110332_KienDucTrong_Week05_StaticCLass\Baitap1Tuan5Chuong3\Baitap1Tuan5Chuong3\obj\Debug\Baitap1Tuan5Chuong3.csproj.SuggestedBindingRedirects.cache
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter03\LopTinh\21110332_KienDucTrong_Week05_StaticCLass\Baitap1Tuan5Chuong3\Baitap1Tuan5Chuong3\obj\Debug\Baitap1Tuan5Chuong3.csproj.CoreCompileInputs.cache
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter03\LopTinh\21110332_KienDucTrong_Week05_StaticCLass\Baitap1Tuan5Chuong3\Baitap1Tuan5Chuong3\obj\Debug\Baitap1Tuan5Chuong3.exe
+H:\My Drive\PCstudy2 [max15GB]\Nam2\LaptrinhHuongDT_thayVinh\BaitapC#\Chapter03\LopTinh\21110332_KienDucTrong_Week05_StaticCLass\Baitap1Tuan5Chuong3\Baitap1Tuan5Chuong3\obj\Debug\Baitap1Tuan5Chuong3.pdb

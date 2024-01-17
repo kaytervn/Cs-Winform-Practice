@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuanLyTruongHocModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="GiaoVien">
+    <Key>
+      <PropertyRef Name="MaGV" />
+    </Key>
+    <Property Name="MaGV" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Ten" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="QueQuan" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="NgayThangNamSinh" Type="date" Nullable="false" />
+    <Property Name="CMND" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="SoDT" Type="nvarchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="HocSinh">
+    <Key>
+      <PropertyRef Name="MaHS" />
+    </Key>
+    <Property Name="MaHS" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Ten" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="QueQuan" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="NgayThangNamSinh" Type="date" Nullable="false" />
+    <Property Name="CMND" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="SoDT" Type="nvarchar" MaxLength="255" Nullable="false" />
+    <Property Name="Diem" Type="float" />
+  </EntityType>
+  <EntityType Name="Room">
+    <Key>
+      <PropertyRef Name="rno" />
+    </Key>
+    <Property Name="rno" Type="int" Nullable="false" />
+    <Property Name="address" Type="nvarchar(max)" />
+    <Property Name="capacity" Type="int" />
+  </EntityType>
+  <EntityContainer Name="QuanLyTruongHocModelStoreContainer">
+    <EntitySet Name="GiaoVien" EntityType="Self.GiaoVien" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HocSinh" EntityType="Self.HocSinh" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Room" EntityType="Self.Room" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
