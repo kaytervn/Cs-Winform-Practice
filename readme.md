@@ -2,11 +2,11 @@
 
 **I. Tạo CSDL**
 
-1\. Kết nối SQL với server local “(localdb)\mssqllocaldb”
+1\. Kết nối SQL với server local `(localdb)\mssqllocaldb`
 
 ![](images/Aspose.Words.f0e5952f-f0aa-4c6d-9893-6d41311d8697.001.png)
 
-Xây dựng trước CSDL tên SQL Server với database tên “QuanLyCuaHangTienLoi”
+Xây dựng trước CSDL tên SQL Server với database tên `QuanLyCuaHangTienLoi`
 
 ![](images/Aspose.Words.f0e5952f-f0aa-4c6d-9893-6d41311d8697.002.png)
 
@@ -20,7 +20,7 @@ Trong bảng Server Explorer: Right click -> Data Connection -> Add Connection
 
 ![](images/Aspose.Words.f0e5952f-f0aa-4c6d-9893-6d41311d8697.004.png)
 
-Bảng Add Connection hiện ra, chọn Server name là server local “(localdb)\mssqllocaldb”. Sau đó nhập tên của CSDL đã được tạo từ trước là “QuanLyCuaHangTienLoi”. Chọn OK để thêm database.
+Bảng Add Connection hiện ra, chọn Server name là server local `(localdb)\mssqllocaldb`. Sau đó nhập tên của CSDL đã được tạo từ trước là `QuanLyCuaHangTienLoi`. Chọn OK để thêm database.
 
 ![](images/Aspose.Words.f0e5952f-f0aa-4c6d-9893-6d41311d8697.005.png)
 
@@ -28,7 +28,7 @@ Mở Properties của database vừa mới được thêm vào, copy Connection 
 
 ![](images/Aspose.Words.f0e5952f-f0aa-4c6d-9893-6d41311d8697.006.png)![](images/Aspose.Words.f0e5952f-f0aa-4c6d-9893-6d41311d8697.007.png)
 
-Right click tên Project, chọn Properties. Sau đó vào mục Setting, nhập vào các ô tương ứng: Name: “cnnStr”, Type: “string”, Scope “Application” và Value là dòng địa chỉ Connection String vừa mới copy từ database. Đóng và lưu lại.
+Right click tên Project, chọn Properties. Sau đó vào mục Setting, nhập vào các ô tương ứng: Name: `cnnStr`, Type: `string`, Scope `Application` và Value là dòng địa chỉ Connection String vừa mới copy từ database. Đóng và lưu lại.
 
 ![](images/Aspose.Words.f0e5952f-f0aa-4c6d-9893-6d41311d8697.008.png)![](images/Aspose.Words.f0e5952f-f0aa-4c6d-9893-6d41311d8697.009.png)
 
